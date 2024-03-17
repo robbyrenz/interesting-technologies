@@ -49,3 +49,4 @@
 * Code formatters like Prettier
 * Linters like ESLint and [deno_lint](https://github.com/denoland/deno_lint)
 * [EditorConfig](https://editorconfig.org/)
+* [Vite](https://github.com/vitejs/vite)
