@@ -46,3 +46,6 @@
 * [ngrok](https://ngrok.com/)
 * [json-server](https://github.com/typicode/json-server)
 * [Remix](https://remix.run/)
+* Code formatters like Prettier
+* Linters like ESLint and [deno_lint](https://github.com/denoland/deno_lint)
+* [EditorConfig](https://editorconfig.org/)
