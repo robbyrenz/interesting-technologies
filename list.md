@@ -50,3 +50,18 @@
 * Linters like ESLint and [deno_lint](https://github.com/denoland/deno_lint)
 * [EditorConfig](https://editorconfig.org/)
 * [Vite](https://github.com/vitejs/vite)
+* Astro
+* Tailwind CSS
+* [Phaser](https://phaser.io/)
+* libGDX
+* Love2D
+* [tPRC](https://github.com/trpc/trpc)
+* Firebase
+* Supabase
+* three.js
+* Bolt for JavaScript
+* Raylib
+* Bevy
+* [Fresh](https://fresh.deno.dev/)
+* Cloudflare tunnels
+* Cloudflare R2 Storage
