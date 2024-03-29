@@ -20,7 +20,7 @@
 * [Gleam](https://gleam.run/)
 * [Infinite Craft](https://neal.fun/infinite-craft/)
 * [Refine](https://refine.dev/)
-* Netlify
+* [Netlify](https://www.netlify.com/)
 * jq
 * yazi
 * [Motion Canvas](https://motioncanvas.io/)
@@ -74,3 +74,4 @@
 * [Aiven](https://aiven.io/)
 * [Deno SaaSKit](https://deno.com/saaskit)
 * [Astro DB](https://astro.build/db/)
+* [Vercel](https://vercel.com/)
