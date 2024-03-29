@@ -11,13 +11,13 @@
 * GitHub Actions
   * awesome-actions
   * GitHub Actions in Actions (book by Manning Publications)
-* Deno
+* [Deno](https://deno.com/)
   * Deno Deploy
   * Deno KV
-* Fly.io
+* [Fly.io](https://fly.io/)
 * GlazeWM
 * WebAssembly
-* Gleam
+* [Gleam](https://gleam.run/)
 * [Infinite Craft](https://neal.fun/infinite-craft/)
 * [Refine](https://refine.dev/)
 * Netlify
@@ -33,8 +33,12 @@
 * [IdeaVim](https://github.com/JetBrains/ideavim)
 * [Phoenix Framework](https://www.phoenixframework.org/)
 * [Piranha](https://github.com/uber/piranha)
-* C4 Model
+* Diagrams As Code
+  * [C4 Model](https://c4model.com/)
   * [Structurizr](https://structurizr.com/)
+  * [Eraser](https://www.eraser.io/)
+  * [PlantUML](https://plantuml.com/)
+  * [Mermaid](https://mermaid.js.org/)
 * Svelte
 * RuneLite
 * [awesome-tuis](https://github.com/rothgar/awesome-tuis)
@@ -50,12 +54,12 @@
 * Linters like ESLint and [deno_lint](https://github.com/denoland/deno_lint)
 * [EditorConfig](https://editorconfig.org/)
 * [Vite](https://github.com/vitejs/vite)
-* Astro
+* [Astro](https://astro.build/)
 * Tailwind CSS
 * [Phaser](https://phaser.io/)
 * libGDX
 * Love2D
-* [tPRC](https://github.com/trpc/trpc)
+* [tRPC](https://github.com/trpc/trpc)
 * Firebase
 * Supabase
 * three.js
@@ -65,3 +69,8 @@
 * [Fresh](https://fresh.deno.dev/)
 * Cloudflare tunnels
 * Cloudflare R2 Storage
+* tmux
+* multiplexes in Wezterm
+* [Aiven](https://aiven.io/)
+* [Deno SaaSKit](https://deno.com/saaskit)
+* [Astro DB](https://astro.build/db/)
