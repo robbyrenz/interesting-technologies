@@ -3,7 +3,7 @@
 * [Turso](https://turso.tech/)
 * [Neon](https://neon.tech/)
 * [Drizzle ORM](https://orm.drizzle.team/)
-* DuckDB
+* [DuckDB](https://duckdb.org/)
 * htmx
 * Streamlit
 * PocketBase
@@ -28,7 +28,7 @@
 * LeetCode
 * [dwm-win32](https://github.com/prabirshrestha/dwm-win32)
 * [Lean Canvas](https://www.leanfoundry.com/tools/lean-canvas)
-* gRPC
+* [gRPC](https://grpc.io/)
 * Dart
 * [IdeaVim](https://github.com/JetBrains/ideavim)
 * [Phoenix Framework](https://www.phoenixframework.org/)
@@ -64,8 +64,8 @@
 * Supabase
 * three.js
 * Bolt for JavaScript
-* Raylib
-* Bevy
+* [raylib](https://www.raylib.com/)
+* [Bevy](https://bevyengine.org/)
 * [Fresh](https://fresh.deno.dev/)
 * Cloudflare tunnels
 * Cloudflare R2 Storage
@@ -75,3 +75,5 @@
 * [Deno SaaSKit](https://deno.com/saaskit)
 * [Astro DB](https://astro.build/db/)
 * [Vercel](https://vercel.com/)
+* Rust
+* Elixir
