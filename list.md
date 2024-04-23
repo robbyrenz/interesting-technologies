@@ -39,6 +39,7 @@
   * [Eraser](https://www.eraser.io/)
   * [PlantUML](https://plantuml.com/)
   * [Mermaid](https://mermaid.js.org/)
+    * [Sequence diagrams](https://mermaid.js.org/syntax/sequenceDiagram.html)
 * Svelte
 * RuneLite
 * [awesome-tuis](https://github.com/rothgar/awesome-tuis)
@@ -46,7 +47,7 @@
 * dogshell
 * OpenAI APIs
 * GitHub Copilot
-* Cloudflare Workers
+* [Cloudflare Workers](https://developers.cloudflare.com/workers/)
 * [ngrok](https://ngrok.com/)
 * [json-server](https://github.com/typicode/json-server)
 * [Remix](https://remix.run/)
@@ -77,3 +78,8 @@
 * [Vercel](https://vercel.com/)
 * Rust
 * Elixir
+* [PixiJS](https://pixijs.com/)
+* [Ratatui](https://ratatui.rs/)
+* [Starlight](https://starlight.astro.build/)
+* [Trello](https://www.atlassian.com/software/trello)
+* [Focalboard](https://www.focalboard.com/)
