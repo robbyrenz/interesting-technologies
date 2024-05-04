@@ -83,3 +83,11 @@
 * [Starlight](https://starlight.astro.build/)
 * [Trello](https://www.atlassian.com/software/trello)
 * [Focalboard](https://www.focalboard.com/)
+* [mycli](https://github.com/dbcli/mycli)
+* NixOS
+* [awesomeWM](https://github.com/awesomeWM/awesome)
+* [Cloudflare Pages](https://pages.cloudflare.com/)
+* [Orama](https://github.com/askorama/orama)
+* [Kaboom.js](https://kaboomjs.com/)
+* [Nushell](https://www.nushell.sh/)
+* [Tamagui](https://tamagui.dev/)
